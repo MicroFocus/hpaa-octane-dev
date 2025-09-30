@@ -1,3 +1,5 @@
+> Note: This repository has been archived. Please use https://github.com/jenkinsci/hpe-application-automation-tools-plugin
+
 ![OpenText Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/OpenText_logo.svg)
 # OpenText automation plugin for Jenkins CI                        
 
